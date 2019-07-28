@@ -6,7 +6,7 @@ crypto currency
 Managing blocks and ledger and sharing them to all connected users<br>
 
 ### Tecnologies
-Node.js
-Typescript
-crypto.js
-web sockets
+Node.js<br>
+Typescript<br>
+crypto.js<br>
+web sockets<br>
